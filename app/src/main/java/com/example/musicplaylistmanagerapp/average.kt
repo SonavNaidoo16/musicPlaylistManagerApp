@@ -21,8 +21,7 @@ class average : AppCompatActivity() {
         //code starts here
         val btnClose = findViewById<Button>(R.id.btnClose)
         val tvAverage2 = findViewById<TextView>(R.id.tvAverage2)
-        val score = intent.getIntExtra("score", 0)
-        tvAverage2.text = "$score"
+
         //set on click listener on buttons
         btnClose.setOnClickListener {
             finishAffinity()

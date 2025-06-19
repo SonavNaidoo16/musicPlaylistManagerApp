@@ -74,9 +74,6 @@ class PlayList : AppCompatActivity() {
             if (ratings.isNotEmpty()) {
                 val avg = ratings.sum().toFloat() / ratings.size
                 tvDetails.text = "Average Rating: %.2f".format(avg)
-                val intent = Intent(this, average::class.java)
-                    .putExtra("score",4)
-                startActivity(intent)
             } else {
                 tvDetails.text = "No songs ratings found."
             }
