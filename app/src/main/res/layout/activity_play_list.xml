@@ -152,6 +152,5 @@
             android:text="Show list"
             android:textColor="#000000"
             android:textStyle="bold" />
-
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
