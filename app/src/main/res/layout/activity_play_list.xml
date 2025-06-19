@@ -48,7 +48,7 @@
             android:hint="Enter Song Title"
             android:minHeight="48dp"
             android:textColor="#FFFFFF"
-            android:textSize="26sp"
+            android:textSize="20sp"
             android:textStyle="bold"/>
 
         <TextView
@@ -67,7 +67,7 @@
             android:hint="Enter Artist Name"
             android:minHeight="48dp"
             android:textColor="#FFFFFF"
-            android:textSize="26sp"
+            android:textSize="20sp"
             android:textStyle="bold"/>
 
         <TextView
@@ -100,7 +100,7 @@
             android:hint="Enter Comment"
             android:minHeight="48dp"
             android:textColor="#FFFFFF"
-            android:textSize="26sp"
+            android:textSize="20sp"
             android:textStyle="bold"/>
 
         <Button
@@ -118,8 +118,10 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingTop="16dp"
+            android:minHeight="48dp"
             android:textColor="#FFFFFF"
-            android:textSize="16sp" />
+            android:textSize="20sp"
+            android:textStyle="bold"/>
 
         <Button
             android:id="@+id/btnMenu"
@@ -152,5 +154,4 @@
             android:textStyle="bold" />
 
     </LinearLayout>
-
 </androidx.constraintlayout.widget.ConstraintLayout>

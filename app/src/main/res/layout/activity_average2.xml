@@ -42,13 +42,12 @@
                 android:textStyle="bold" />
 
             <TextView
-                android:id="@+id/tvPlayList"
+                android:id="@+id/tvAverageAns"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="PlayList:"
+                android:text="Average Answer is"
                 android:textColor="#FFFFFF"
-                android:textSize="26sp"
-                android:textStyle="bold" />
+                android:textSize="20sp" />
 
             <Button
                 android:id="@+id/btnClose"
