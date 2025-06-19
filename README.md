@@ -60,8 +60,11 @@ Technologies Used: -Kotlin -Android SDK -Android Studio -Git & GitHub -GitHub Ac
 
 Home Screen:
 ![image](https://github.com/user-attachments/assets/dbac9278-86b1-4292-8c78-637c243bbf39)
+the buttons allow you to travel through pages or exit 
 ![image](https://github.com/user-attachments/assets/c9456999-5795-4ef2-bcc8-c8449c35e097)
+this code allows for the change of pages buy a click of abutton
 ![image](https://github.com/user-attachments/assets/1ce2b6c2-a0c6-4a81-8fd9-7de427576cf0)
+this code allows for the button to terminate the program 
 Music Playlist Page: 
 ![image](https://github.com/user-attachments/assets/54a9a487-1a92-4a00-86d0-1f79470894fd)
 ![image](https://github.com/user-attachments/assets/bf848bd5-e277-4dbb-b0b0-edaae0104505)
@@ -70,4 +73,6 @@ Music Playlist Page:
 ![image](https://github.com/user-attachments/assets/3d47925e-c116-4cc7-8f68-d722ff1fa385)
 Concluding Page:
 ![image](https://github.com/user-attachments/assets/c8c6960c-7ab6-49b4-ad38-3c5732f7f080)
+Displays the playlist along with the rating 
 ![image](https://github.com/user-attachments/assets/0b02676b-3388-485f-8b71-260b10e97f5a)
+this code allows for the average from the previous page to be transfered over and displayed along with a exit button to terimate the program 
